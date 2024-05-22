@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-brands-svg-icons": "^6.5.2",
+    "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "@popperjs/core": "^2.11.8",
+    "jquery": "^3.7.1"
+  }
+}
